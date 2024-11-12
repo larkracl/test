@@ -10,3 +10,4 @@ def solution(wallet, bill):
     return answer
 
 print(solution([50, 50], [100, 241]))
+print("Done!")
