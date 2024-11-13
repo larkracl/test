@@ -11,3 +11,4 @@ def solution(wallet, bill):
 
 print(solution([50, 50], [100, 241]))
 print("Done!")
+print("and git connected!")
